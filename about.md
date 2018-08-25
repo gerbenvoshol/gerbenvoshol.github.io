@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a molecular microbiologist biologist with experience in biotechnology, genetic engineering and bioinformatics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gpvoshol@gmail.com](mailto:gpvoshol@gmail.com)
