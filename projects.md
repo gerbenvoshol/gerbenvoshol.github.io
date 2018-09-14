@@ -20,3 +20,4 @@ Single header file with a bunch of useful statistical functions in C. Sometimes 
 * Liniear, Exponential, Polynomial curve fitting
 * A very simple histogram
 * and several more functions
+Get it [here](https://github.com/gerbenvoshol/Statistics-Tool-Box)
