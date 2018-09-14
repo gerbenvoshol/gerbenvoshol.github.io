@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+Here are some of the project I have worked on and that I hope I can share with you in the near future.
+
 ### Hidden Markov Model
 
 Single header file implementation of a discrete Hidden Markov Model (HMM) in C. The file includes basic HMM functions such as the forward, backward, Viterbi and Baum-Welch algorithm. In the near future, I hope to write a short tutorial about using HMMs in the field of biology.
