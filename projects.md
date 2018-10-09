@@ -16,6 +16,8 @@ Single header file with a bunch of useful statistical functions in C. Sometimes 
 * k-Sample Anderson Darling
 * Chisqr (and G-Test)
 * Liniear, Exponential, Polynomial curve fitting
+* Multiple linear/logistic regression
+* Matrix manipulations (was needed for multiple regression) such as transpose, inverse, multiply, etc.
 * A very simple histogram
 * and several more functions
 
