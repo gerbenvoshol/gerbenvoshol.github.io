@@ -4,9 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 
-### Hidden Markov Model
+### Hidden Markov Model Toolkit
 
-Single header file implementation of a discrete Hidden Markov Model (HMM) in C. The file includes basic HMM functions such as the forward, backward, Viterbi and Baum-Welch algorithm. Also included are the hmms used for transmembrane and signal peptide prediction. In the near future, I hope to write a set of short tutorials about using HMMs in the field of biology.
+Single header file implementation of a discrete (and continuous) Hidden Markov Model (HMM) in C. The file includes basic HMM functions such as the forward, backward, Viterbi and Baum-Welch algorithm. The idea is to eventually include example HMMs that can be used for transmembrane, secondary structure, tertiary structure and signal peptide prediction. I hope to combine these with a set of short tutorials about using HMMs in the field of biology.
+
+Get it at [https://github.com/gerbenvoshol/Hidden-Markov-Model-Toolkit](https://github.com/gerbenvoshol/Hidden-Markov-Model-Toolkit)
 
 ### Statistics Tool Box
 
@@ -25,7 +27,7 @@ Get it at [https://github.com/gerbenvoshol/Statistics-Tool-Box](https://github.c
 
 ### Self-Organizing Map
 
-A self-organizing map, also called a SOM or Kohonen map, is a type of artificial neural network that is trained using unsupervised learning. This project uses a SOM to produce a two-dimensional representation of the relative synonymous codon usage of diverse microorganisms. This information can then be used to determine groups of similar genes (for example, high versus low expressed genes) and determine the likelihood that a gene is (in)correctly annotated, based on how well it fits the trained map.
+A self-organizing map, also called a SOM or Kohonen map, is a type of artificial neural network that is trained using unsupervised learning. This project uses a SOM to produce a two-dimensional representation of the relative synonymous codon usage of diverse microorganisms. This information can then be used to determine groups of similar genes (for example, high versus low expressed genes) and determine the likelihood that a gene is (in)correctly annotated, based on how well it fits the trained map. As soon as the paper is accepted I will upload the code.
 
 ### Genetic Algorithm and Artificial Neural Networks
 
